@@ -1,0 +1,18 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "easy to classes in TS",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only mygame.ts"
+  },
+  "keywords": [
+    "class",
+    "typescript",
+    "easy",
+    "methods",
+    "node"
+  ],
+  "author": "Peter Oti",
+  "license": "MIT"
+}
